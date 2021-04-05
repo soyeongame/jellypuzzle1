@@ -13,11 +13,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 IN THE SOFTWARE.
 */
 
-@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/css?family=Hammersmith+One);
 
 body {
   background-color: #f2c830;
-  font-family: 'Jeju Gothic', serif;
+  font-family: 'Hammersmith One', sans-serif;
 }
 
 #container {
@@ -35,7 +35,6 @@ body {
 #title {
   font-size: 25px;
   color: white;
-  font-weight: normal;
 }
 
 #board {
